@@ -1,4 +1,4 @@
-module github.com/nilus/sentry-integration
+module github.com/nilusco/sentry-integration
 
 go 1.23
 
